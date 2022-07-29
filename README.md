@@ -1,3 +1,5 @@
+![Profile views](https://gpvc.arturio.dev/xwwwwww)
+
 ### Hi there, I'm Jiaxin Wen 👋
 
 
