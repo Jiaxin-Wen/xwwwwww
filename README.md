@@ -1,9 +1,6 @@
-![Profile views](https://komarev.com/ghpvc/?username=xwwwwww)
 
 ### Hi there, I'm Jiaxin Wen 👋
 
-
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=xwwwwww&hide=stars&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xwwwwww&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
